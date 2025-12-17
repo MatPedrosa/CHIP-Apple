@@ -2,10 +2,11 @@
 This is my first Git/Github repo, I barely know what I'm doing.
 
 I mean, like, I can code, but my *organizational process*
-up until now has just been:\
+up until now has just been:
 * Create new file
 * It's somewhere on my computer
-* Done!\
+* Done!
+
 Whatever negative statement have you just thought of this process,
 oh you *bet*.
 
