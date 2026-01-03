@@ -11,7 +11,8 @@ Whatever negative statement have you just thought of this process,
 oh you *bet*.
 
 As just said above, I can (surprizingly) code. This repo, though, is
-definitely one of my worst examples of such. ✨😘✨\
+definitely one of my worst examples of such.\
+✨😘✨\
 Everything you see here was cobbled together to **Just Work™,**
 leaning heavily so towards the least efficient, or visually pleasing,
 code ever written. Yet, somehow, I'm still maintaining it...
